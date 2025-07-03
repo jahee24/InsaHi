@@ -7,6 +7,15 @@
 ### 프로젝트명: MSA 기반 업무/인사관리 플랫폼(인사HI)
 
 ---
+### 0. 나의 기여
+
+**나의 기여 및 이슈 - 기능 구현**
+![InsaHi 나의 기여 및 이슈 - 기능 구현](https://github.com/user-attachments/assets/ee62e1db-a2da-455b-b90d-e60060da7200)
+
+**나의 기여 및 이슈 - 배포 및 자동화, 협업 경험**
+![InsaHi 나의 기여 및 이슈 - 배포 및 자동화, 협업 경험](https://github.com/user-attachments/assets/aafd4d5e-03f4-4d2a-94d4-45b62027a1d7)
+
+---
 
 ### 1. 프로젝트 개요
 
